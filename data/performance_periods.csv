@@ -1,0 +1,9 @@
+label,period_start,period_end,start_value_sgd,new_money_sgd,end_value_sgd,pnl_sgd,return_pct,method
+U12,2025-11-04,2026-11-03,146336,-17384,126219,-2733,-2.103164748,IBKR Flex; time-weighted per IBKR (U18 not meaningful: opened in year)
+U18,2025-11-04,2026-11-03,0,99562,89761,-9801,,IBKR Flex; time-weighted per IBKR (U18 not meaningful: opened in year)
+U15,2025-11-04,2026-11-03,64239,156122,221822,1461,1.115971091,IBKR Flex; time-weighted per IBKR (U18 not meaningful: opened in year)
+IBKR combined,2025-11-04,2026-11-03,210575,238300,437802,-11073,-3.46,own time-weighted from daily NAV and dated deposits; IBKR app YTD +1.33% vs own +0.59% (range -3.5% to -2.7% for 12m)
+UOB,2026-01-31,2026-03-31,96085,63480,157472,-2093,-1.68,Modified Dietz per statement period; flows inferred from unit changes
+UOB,2026-03-31,2026-05-31,157472,112348,279517,9697,4.76,Modified Dietz per statement period; flows inferred from unit changes
+UOB,2026-05-31,2026-07-31,279517,35988,323339,7834,2.55,Modified Dietz per statement period; flows inferred from unit changes
+UOB,2026-07-31,2026-10-31,323339,-14718,299819,-8802,-2.81,Modified Dietz per statement period; flows inferred from unit changes

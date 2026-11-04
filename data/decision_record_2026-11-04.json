@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-04",
+ "benchmarks_12m_pct": {
+  "60/40 (ACWI/AGG)": 5.08,
+  "ALLW": 3.01,
+  "IBKR combined (TWR)": -3.46,
+  "QQQ": 6.99,
+  "SPY": 9.61
+ },
+ "decisions": {
+  "U12": "active 1w-1m",
+  "U15": "passive >1m",
+  "beat_ALLW": "vol-matched",
+  "hedge_scope": "whole book incl UOB, in U18",
+  "structure_and_guardrails": "approved"
+ },
+ "hedge_quotes_4Nov2026": {
+  "candidates": [
+   {
+    "ann_pct_book": 1.78,
+    "ann_pct_hedged": 3.56,
+    "cost_sgd": 3849.63,
+    "max_sgd": 41008.0,
+    "name": "H1 buy 730 / sell 650 put spread"
+   },
+   {
+    "ann_pct_book": 0.92,
+    "ann_pct_hedged": 1.84,
+    "cost_sgd": 1983.76,
+    "max_sgd": 38445.0,
+    "name": "H2 buy 690 / sell 615 put spread"
+   },
+   {
+    "ann_pct_book": 1.6,
+    "ann_pct_hedged": 3.2,
+    "cost_sgd": 3454.92,
+    "max_sgd": 199914.0,
+    "name": "H3 buy 690 put (outright)"
+   },
+   {
+    "ann_pct_book": 2.08,
+    "ann_pct_hedged": 4.16,
+    "cost_sgd": 4500.63,
+    "max_sgd": 58949.0,
+    "name": "H4 buy 730 / sell 615 put spread"
+   }
+  ],
+  "expiry": "2027-02-19",
+  "puts": {
+   "615": [
+    2.87,
+    2.9,
+    0.2838
+   ],
+   "650": [
+    4.14,
+    4.18,
+    0.2479
+   ],
+   "690": [
+    6.7,
+    6.74,
+    0.2124
+   ],
+   "730": [
+    11.6,
+    11.65,
+    0.1774
+   ],
+   "765": [
+    20.2,
+    20.3,
+    0.1475
+   ]
+  },
+  "underlying": "SPY 767.02"
+ },
+ "ibkr_year": {
+  "bought_and_sold_sgd_excl_fx": 2553545,
+  "one_side_vs_avg_capital": 3.25,
+  "pnl_sgd": -11073,
+  "twr_pct_my_calc": -3.46,
+  "year_file_sha256": "ecc79bf927997ea5005db84477f73d8f8d8eeb51ecea8d2e179923616e474f44",
+  "ytd_twr_ibkr_app_pct": 1.33,
+  "ytd_twr_my_calc_pct": 0.59
+ },
+ "input_hashes": {
+  "P1_PX": "3a0e0fc46fc878d2c3cd840686745aa5fff8953b609f1ad5a1fced5f95479a5a",
+  "P1_TR": "526a0eddfffd5b35e934306c9800816e2c6dad00b8fcfb7f748c4847bcdef357",
+  "P2_RV": "5a94a961d25f98ac9adc59b54db314f2c06f2c7814915119988220a3f3635df6",
+  "P2_TR": "a2c9a6385e67f7db13afc6c985ffec530672ff0be34f37915adfec5d172ebb9c",
+  "X_TR": "40d44ca352ab8e82d6e8fcc4f98d36e814e071b855fd5c6b96473124f2c3bc2a",
+  "Y_PX": "a1ae8da3c92bb1e7c8f1f985aba0d688d508a0693e1d68f7901c8af00bcfe16b",
+  "extra4_yahoo": "fe5c09a5352ecaede64d7cec43bd91bed863e81279168e7fc58790583bcd2197"
+ },
+ "recommendation": "H2: buy 4 SPY 690P, sell 4 SPY 615P (19 Feb 2027), in U18",
+ "record": "alloc review consolidated",
+ "status": "PROPOSED - hedge and rules not yet approved",
+ "uob": {
+  "buys_sgd": 211816,
+  "pnl_sgd_jan31_oct31": 6636,
+  "redemption_sgd": 14718,
+  "return_pct": 2.67,
+  "statement_sha256": [
+   "a82ad61ba652c9ba50fad1345d239fa330cd3d9af633be6c3be66a49e843884b",
+   "564ddf27fe817f834707300c532c28f4c1b080dc15e313a4691c35ab51bc9786",
+   "fe4c770e9b6db1b4b0c26594de91034bc01285b7c2c5df924cee59ecb9108f2c",
+   "947a322fa021ba494539a4fa362150fa21a1883d83500043f0138a28ed9ebcae"
+  ]
+ }
+}

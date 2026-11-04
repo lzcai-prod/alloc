@@ -1,0 +1,102 @@
+month_end,fund,currency,units,nav,source
+2025-12,AB American Income A USD,USD,1186.999,,statement opening balance (Jan statement)
+2025-12,Allianz Global Diversified Credit AMgi H2-SGD,SGD,704.375,,statement opening balance (Jan statement)
+2025-12,Fidelity America A-USD,USD,363.22,,statement opening balance (Jan statement)
+2025-12,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,10824.48,,statement opening balance (Jan statement)
+2025-12,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1349.36,,statement opening balance (Jan statement)
+2025-12,JPM Emerging Markets Dividend A (mth) USD,USD,111.665,,statement opening balance (Jan statement)
+2025-12,Schroder Asian Investment Grade Credit A,SGD,14021.2,,statement opening balance (Jan statement)
+2025-12,Schroder Singapore Trust A SGD Dist,SGD,4889.98,,statement opening balance (Jan statement)
+2025-12,United Singapore Bond Fund SGD,SGD,5378.65,,statement opening balance (Jan statement)
+2026-01,AB American Income A USD,USD,1193.081,6.43,statement
+2026-01,Allianz Global Diversified Credit AMgi H2-SGD,SGD,708.428,9.9461,statement
+2026-01,Fidelity America A-USD,USD,363.22,18.34,statement
+2026-01,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,10861.65,0.931,statement
+2026-01,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1355.47,8.365,statement
+2026-01,JPM Emerging Markets Dividend A (mth) USD,USD,112.018,107.09,statement
+2026-01,Schroder Asian Investment Grade Credit A,SGD,14076.86,0.728,statement
+2026-01,Schroder Singapore Trust A SGD Dist,SGD,4889.98,2.219,statement
+2026-01,United Singapore Bond Fund SGD,SGD,5378.65,1.8363,statement
+2026-02,AB American Income A USD,USD,1199.204,,rebuilt from Mar statement opening balance
+2026-02,Allianz Global Diversified Credit AMgi H2-SGD,SGD,712.511,,rebuilt from Mar statement opening balance
+2026-02,Fidelity America A-USD,USD,363.22,,rebuilt from Mar statement opening balance
+2026-02,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,10899.15,,rebuilt from Mar statement opening balance
+2026-02,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1361.38,,rebuilt from Mar statement opening balance
+2026-02,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,1054.815,,rebuilt from Mar statement opening balance
+2026-02,JPM Emerging Markets Dividend A (mth) USD,USD,112.366,,rebuilt from Mar statement opening balance
+2026-02,Schroder Asian Investment Grade Credit A,SGD,14126.72,,rebuilt from Mar statement opening balance
+2026-02,Schroder Singapore Trust A SGD Dist,SGD,7217.13,,rebuilt from Mar statement opening balance
+2026-02,United Singapore Bond Fund SGD,SGD,5378.65,,rebuilt from Mar statement opening balance
+2026-03,AB American Income A USD,USD,1205.329,6.27,statement
+2026-03,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2753.477,9.6484,statement
+2026-03,Fidelity America A-USD,USD,363.22,17.65,statement
+2026-03,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,10936.45,0.917,statement
+2026-03,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1367.22,7.918,statement
+2026-03,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,2125.559,8.93,statement
+2026-03,JPM Emerging Markets Dividend A (mth) USD,USD,112.729,100.33,statement
+2026-03,Schroder Asian Investment Grade Credit A,SGD,14177.44,0.712,statement
+2026-03,Schroder Singapore Trust A SGD Dist,SGD,11727.73,2.192,statement
+2026-03,United Singapore Bond Fund SGD,SGD,10795.47,1.8068,statement
+2026-04,AB American Income A USD,USD,1211.673,,rebuilt from May statement opening balance
+2026-04,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2769.703,,rebuilt from May statement opening balance
+2026-04,Fidelity America A-USD,USD,363.22,,rebuilt from May statement opening balance
+2026-04,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,10974.66,,rebuilt from May statement opening balance
+2026-04,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1373.4,,rebuilt from May statement opening balance
+2026-04,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,2896.016,,rebuilt from May statement opening balance
+2026-04,JPM Emerging Markets Dividend A (mth) USD,USD,113.08,,rebuilt from May statement opening balance
+2026-04,Schroder Asian Investment Grade Credit A,SGD,35177.13,,rebuilt from May statement opening balance
+2026-04,Schroder Singapore Trust A SGD Dist,SGD,18600.58,,rebuilt from May statement opening balance
+2026-04,United Singapore Bond Fund SGD,SGD,14854.57,,rebuilt from May statement opening balance
+2026-05,AB American Income A USD,USD,1218.011,6.3,statement
+2026-05,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2786.172,9.6425,statement
+2026-05,Fidelity America A-USD,USD,363.22,18.68,statement
+2026-05,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,16532.01,0.909,statement
+2026-05,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1379.47,8.375,statement
+2026-05,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,2906.122,10.55,statement
+2026-05,JPM Emerging Markets Dividend A (mth) USD,USD,113.473,119.18,statement
+2026-05,PIMCO Total Return Bond E SGD Hedged Acc,SGD,254.582,39.45,statement
+2026-05,Schroder Asian Investment Grade Credit A,SGD,35302.21,0.713,statement
+2026-05,Schroder Singapore Trust A SGD Dist,SGD,40893.28,2.227,statement
+2026-05,United Singapore Bond Fund SGD,SGD,16198.65,1.864,statement
+2026-06,AB American Income A USD,USD,1224.39,,rebuilt from Jul statement opening balance
+2026-06,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2802.769,,rebuilt from Jul statement opening balance
+2026-06,Fidelity America A-USD,USD,363.22,,rebuilt from Jul statement opening balance
+2026-06,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,16590.66,,rebuilt from Jul statement opening balance
+2026-06,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1385.46,,rebuilt from Jul statement opening balance
+2026-06,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,3396.414,,rebuilt from Jul statement opening balance
+2026-06,JPM Emerging Markets Dividend A (mth) USD,USD,113.842,,rebuilt from Jul statement opening balance
+2026-06,PIMCO Total Return Bond E SGD Hedged Acc,SGD,381.293,,rebuilt from Jul statement opening balance
+2026-06,Schroder Asian Investment Grade Credit A,SGD,35428.31,,rebuilt from Jul statement opening balance
+2026-06,Schroder Singapore Trust A SGD Dist,SGD,52009.33,,rebuilt from Jul statement opening balance
+2026-06,United Singapore Bond Fund SGD,SGD,16198.65,,rebuilt from Jul statement opening balance
+2026-07,AB American Income A USD,USD,1230.833,6.16,statement
+2026-07,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2819.591,9.4961,statement
+2026-07,Fidelity America A-USD,USD,363.22,18.74,statement
+2026-07,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,SGD,16649.65,0.884,statement
+2026-07,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1391.54,8.133,statement
+2026-07,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,3408.045,10.11,statement
+2026-07,JPM Emerging Markets Dividend A (mth) USD,USD,114.228,114.77,statement
+2026-07,PIMCO Total Return Bond E SGD Hedged Acc,SGD,381.293,38.96,statement
+2026-07,Schroder Asian Investment Grade Credit A,SGD,35554.67,0.702,statement
+2026-07,Schroder Singapore Trust A SGD Dist,SGD,52512.03,2.443,statement
+2026-07,United Singapore Bond Fund SGD,SGD,16198.65,1.8206,statement
+2026-09,AB American Income A USD,USD,1244.068,,rebuilt from Oct statement opening balance
+2026-09,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2854.004,,rebuilt from Oct statement opening balance
+2026-09,Fidelity America A-USD,USD,363.22,,rebuilt from Oct statement opening balance
+2026-09,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1405.37,,rebuilt from Oct statement opening balance
+2026-09,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,3429.751,,rebuilt from Oct statement opening balance
+2026-09,JPM Emerging Markets Dividend A (mth) USD,USD,114.958,,rebuilt from Oct statement opening balance
+2026-09,PIMCO Total Return Bond E SGD Hedged Acc,SGD,381.293,,rebuilt from Oct statement opening balance
+2026-09,Schroder Asian Investment Grade Credit A,SGD,35808.05,,rebuilt from Oct statement opening balance
+2026-09,Schroder Singapore Trust A SGD Dist,SGD,52512.03,,rebuilt from Oct statement opening balance
+2026-09,United Singapore Bond Fund SGD,SGD,16198.65,,rebuilt from Oct statement opening balance
+2026-10,AB American Income A USD,USD,1251.037,5.99,statement
+2026-10,Allianz Global Diversified Credit AMgi H2-SGD,SGD,2871.754,9.1815,statement
+2026-10,Fidelity America A-USD,USD,363.22,18.69,statement
+2026-10,Fidelity Global Multi Asset Income A-MINCOME(G)-USD,USD,1412.56,7.811,statement
+2026-10,JPM Emerging Markets Dividend A (mth) SGD Hedged,SGD,3441.126,9.67,statement
+2026-10,JPM Emerging Markets Dividend A (mth) USD,USD,115.339,110.62,statement
+2026-10,PIMCO Total Return Bond E SGD Hedged Acc,SGD,381.293,38.43,statement
+2026-10,Schroder Asian Investment Grade Credit A,SGD,35935.25,0.682,statement
+2026-10,Schroder Singapore Trust A SGD Dist,SGD,53065.46,2.312,statement
+2026-10,United Singapore Bond Fund SGD,SGD,16198.65,1.8292,statement

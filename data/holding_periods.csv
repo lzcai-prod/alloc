@@ -1,0 +1,4 @@
+label,sold_value_matched_sgd,median_hold_days,pct_7d_or_less,pct_8_30d,pct_31_90d,pct_over_90d,method
+U12,428281,31,22,28,39,10,FIFO match of stock/ETF sales to purchases in window; options excluded; ~80% of sales matched
+U15,249346,102,1,18,37,44,FIFO match of stock/ETF sales to purchases in window; options excluded; ~80% of sales matched
+U18,140722,106,1,6,36,56,FIFO match of stock/ETF sales to purchases in window; options excluded; ~80% of sales matched

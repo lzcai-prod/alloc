@@ -1,0 +1,9 @@
+# Personal inputs and derived binaries are never committed
+*.pkl
+*.pdf
+*.xlsx
+account_map.json
+inputs/
+analysis/inputs/
+__pycache__/
+.env

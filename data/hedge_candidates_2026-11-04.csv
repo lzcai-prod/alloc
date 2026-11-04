@@ -1,0 +1,5 @@
+name,cost_pts,cost_usd,cost_sgd,cost_pct_book,ann_pct_book,ann_pct_hedged,max_sgd,contracts,status
+H1 buy 730 / sell 650 put spread,7.51,3004.0,3849.626,0.522,1.781,3.561,41008.0,4,candidate; H2 recommended; nothing placed
+H2 buy 690 / sell 615 put spread,3.87,1548.0,1983.762,0.269,0.918,1.835,38445.0,4,candidate; H2 recommended; nothing placed
+H3 buy 690 put (outright),6.74,2696.0,3454.924,0.468,1.598,3.196,199914.0,4,candidate; H2 recommended; nothing placed
+H4 buy 730 / sell 615 put spread,8.78,3512.0,4500.628,0.61,2.082,4.164,58949.0,4,candidate; H2 recommended; nothing placed

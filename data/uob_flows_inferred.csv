@@ -1,0 +1,19 @@
+period_start,period_end,fund,units_delta,amount_sgd,kind,method
+2026-01,2026-02,Schroder Singapore Trust A SGD Dist,2327.2,5133,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-01,2026-02,JPM Emerging Markets Dividend A (mth) SGD Hedged,1054.8,9419,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-02,2026-03,Allianz Global Diversified Credit AMgi H2-SGD,2041.0,19692,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-02,2026-03,Schroder Singapore Trust A SGD Dist,4510.6,9887,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-02,2026-03,United Singapore Bond Fund SGD,5416.8,9787,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-02,2026-03,JPM Emerging Markets Dividend A (mth) SGD Hedged,1070.7,9562,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-03,2026-04,Schroder Asian Investment Grade Credit A,20999.7,14962,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-03,2026-04,Schroder Singapore Trust A SGD Dist,6872.9,15186,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-03,2026-04,United Singapore Bond Fund SGD,4059.1,7450,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-03,2026-04,JPM Emerging Markets Dividend A (mth) SGD Hedged,770.5,7504,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-04,2026-05,Schroder Singapore Trust A SGD Dist,22292.7,49646,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-04,2026-05,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,5557.3,5052,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-04,2026-05,United Singapore Bond Fund SGD,1344.1,2505,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-04,2026-05,PIMCO Total Return Bond E SGD Hedged Acc,254.6,10043,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-05,2026-06,Schroder Singapore Trust A SGD Dist,11116.1,25956,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-05,2026-06,JPM Emerging Markets Dividend A (mth) SGD Hedged,490.3,5065,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-05,2026-06,PIMCO Total Return Bond E SGD Hedged Acc,126.7,4968,purchase,units delta x interpolated NAV; USD funds at interpolated UOB rate
+2026-07,2026-09,Fidelity US Dollar Bond A-MINCOME(G)-SGD-H,-16649.7,-14718,redemption,units delta x interpolated NAV; USD funds at interpolated UOB rate
