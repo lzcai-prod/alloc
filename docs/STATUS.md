@@ -16,8 +16,8 @@ Allocation of the owner's whole SGD book (3 IBKR accounts + UOB unit trusts): tw
 - Hedge priced live (SPY 767.02, expiry 2027-02-19): H2 690/615 put spread about SGD 2.0k. Nothing placed.
 
 ## Open (owner)
-1. Loss cap and hedge choice (H2 or upgrade).
-2. Confirm U12 and U15 rules (decision 0010 item 6); how to deploy U18's SGD 54.5k cash.
+1. Hedge: **approved 2026-11-04** (loss cap about 6% at SPY -20%; H2 690/615 put spread). Not placed; CTO re-quotes on the day, owner places by hand.
+2. Confirm U12 and U15 rules (decision 0010 item 6); how to deploy U18's SGD 54.5k cash (proposal: keep about SGD 8k, deploy the rest in three monthly tranches).
 3. Set the password for Neon role `alloc_app` in the console; set `main` as the default branch of this repo (first push went to the session branch).
 4. Send UOB statements for Nov and Dec 2025 (and Feb, Apr, Jun, Aug, Sep) to complete the UOB record; check the IBKR margin rate for U18.
 
