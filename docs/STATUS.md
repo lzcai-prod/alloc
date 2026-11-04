@@ -17,7 +17,7 @@ Allocation of the owner's whole SGD book (3 IBKR accounts + UOB unit trusts): tw
 
 ## Open (owner)
 1. Hedge: **approved 2026-11-04** (loss cap about 6% at SPY -20%; H2 690/615 put spread). Not placed; CTO re-quotes on the day, owner places by hand.
-2. Confirm U12 and U15 rules (decision 0010 item 6); how to deploy U18's SGD 54.5k cash (proposal: keep about SGD 8k, deploy the rest in three monthly tranches).
+2. U12/U15 rules: **approved 2026-11-04**. Proposed, awaiting the owner: allocation for U12 and U15 (`docs/ALLOCATION_PROPOSAL_2026-11-04.md`), U18 cash plan (keep about SGD 8k, three tranches), open decision A (core risk budget 7-9% vs about 6% reached; recommend 6-8%), open decision B (QQQ is 39% of U18 against a 30% single-ETF limit: trim about SGD 6.6k, or raise the limit to 40% for broad index ETFs).
 3. Set the password for Neon role `alloc_app` in the console; set `main` as the default branch of this repo (first push went to the session branch).
 4. Send UOB statements for Nov and Dec 2025 (and Feb, Apr, Jun, Aug, Sep) to complete the UOB record; check the IBKR margin rate for U18.
 

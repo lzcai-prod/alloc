@@ -1,0 +1,13 @@
+symbol,value_sgd,pnl_pct,wavg_days,oldest_days,newest_days,default_action
+XBI,21845,16.3,198,307,131,"trim to ~9k, keep with thesis"
+CPER,15792,10.9,176,319,148,sell
+LVHI,13738,4.9,184,209,148,move to U15
+XLP,13109,9.5,232,357,12,move to U15
+EWU,8789,3.6,287,307,249,move to U15
+EZU,8407,-1.6,196,244,148,move to U15
+EWJ,7119,6.3,249,249,249,move to U15
+BITB,5410,7.5,75,75,75,move to U18
+1631.T,4592,26.8,301,301,301,move to U15
+USO,4054,25.6,135,242,28,sell
+1330.T,3718,24.6,343,365,328,move to U15
+2823,3621,-9.3,296,296,296,sell

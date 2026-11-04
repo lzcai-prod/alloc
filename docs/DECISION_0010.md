@@ -1,6 +1,6 @@
 # 0010 — alloc: growth sleeve, active and passive accounts, whole-book hedge
 
-Date: 2026-11-04 · Status: items 1-5 **accepted (owner)**; item 6 (U12/U15 rules) and the U18 cash plan **proposed**, owner decision pending · Refines `projects/alloc/PLAN_v2.md`
+Date: 2026-11-04 · Status: items 1-5 **accepted (owner)**; item 6 (U12/U15 rules) **accepted**; U18 cash plan and the U12/U15 allocation **proposed**, owner decision pending · Refines `projects/alloc/PLAN_v2.md`
 
 ## Decision
 Accepted by the owner on 2026-11-04:
@@ -12,7 +12,7 @@ Accepted by the owner on 2026-11-04:
 Accepted by the owner later on 2026-11-04:
 5. **Hedge choice and loss cap.** cap the book loss at about 6% if SPY falls 20% over three months, using H2 (buy 4 SPY 690 puts, sell 4 SPY 615 puts, expiry 2027-02-19, about SGD 2.0k, about 0.9% of the book a year if rolled). Upgrades (H3 outright put, H4 wider spread) exceed the 2% budget or cost more. Nothing placed: the owner places it by hand after the CTO re-quotes on the day.
 
-Proposed, not yet decided:
+Accepted by the owner on 2026-11-04 ("ok"):
 6. **Account rules.** U12: review at 30 days, stop -10% from entry, at most 15% of U12 in one name, U12 at most 20% of the book, turnover at most 6 times NAV one side. U15: hold at least 30 days, rebalance by bands, turnover at most 1 time NAV. No options in U12 or U15.
 
 ## Why
